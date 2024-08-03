@@ -1,0 +1,2 @@
+# K-means
+This project applies K-means clustering to segment customers of a retail store based on their annual income and spending score. By grouping customers into clusters, the store can identify distinct customer segments for targeted marketing and personalized services. The analysis includes data preprocessing, standardization, clustering with K-means, and visualization using PCA to display the customer segments in a 2D space. This helps in understanding the purchasing behavior and tailoring marketing strategies accordingly.
